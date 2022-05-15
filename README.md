@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# chatApp
+Messaging app with basic facility only using pipeline, celery, socket and rabbitmq.
+>>>>>>> d4d07db1be69e2db3c2c59d103505af78c76c353
